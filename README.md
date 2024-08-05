@@ -1,2 +1,2 @@
 # C
-# samples about c programming language
+samples about c programming language
