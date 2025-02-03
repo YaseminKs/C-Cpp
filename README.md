@@ -1,2 +1,2 @@
-# C
-samples about c programming language
+# C - c++
+samples about c and c++ programming languages
